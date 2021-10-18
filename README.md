@@ -40,6 +40,6 @@
 <h2 align="center">⚡️ Meus status do Github:
 <p align="center">
   
-[![Visits Badge](https://badges.pufler.dev/visits/csorlandi/csorlandi?style=for-the-badge)](https://github.com/csorlandi/hallisonfreire)
+[![Visits Badge](https://badges.pufler.dev/visits/csorlandi/csorlandi?style=for-the-badge)](https://github.com/hallisonfreire/hallisonfreire)
 [![Repos Badge](https://badges.pufler.dev/repos/csorlandi?style=for-the-badge)](https://github.com/hallisonfreire?tab=repositories)
 
