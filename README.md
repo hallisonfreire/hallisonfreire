@@ -1,4 +1,5 @@
-### Olá, eu sou Hallison Freire 👋
+<h2 align="center">Olá, eu sou Hallison Freire ⚡️ </h2>
+<p align="center">
 
 - 🔭 Trabalho atualmente como Analista de Processos ...
 - 🌱 Atualmente estudando os fundamentos de lógica de programação ...
