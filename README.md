@@ -1,8 +1,8 @@
-<h2 align="center">Olá, eu sou Hallison Freire ⚡️ </h2>
+<h2 align="center">Hi, my name's Hallison Freire ⚡️ </h2>
 <p align="center">
 
-- 🔭 Trabalho atualmente como Analista de Processos ...
-- 🌱 Estudando os fundamentos de lógica de programação ...
+- 🔭 I am currently a Process Analyst ...
+- 🌱 Studying the Fundamentals of Programming Logic...
 
 <div align = "center">
   <a href="https://github.com/hallisonfreire">
@@ -11,7 +11,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallisonfreire&layout=compact&langs_count=7&theme=dracula"/>
    </div>
   
-   <h2 align="center">⚡️ Buscando me especializar em:</h2>
+   <h2 align="center">⚡️ Seeking to improve myself in:</h2>
   <p align="center">
  
   <h2 align="center">
@@ -27,7 +27,7 @@
   </div>
   
   
-  <h2 align="center">⚡️ Minhas Redes Sociais:</h2>
+  <h2 align="center">⚡️ My Social Networks:</h2>
   <p align="center">
   
   <div> 
@@ -39,7 +39,7 @@
   </div>
   
   
-<h2 align="center">⚡️ Meus status do Github:
+<h2 align="center">⚡️ My statuses on Github:
 <p align="center">
   
 [![Visits Badge](https://badges.pufler.dev/visits/hallisonfreire/hallisonfreire?style=for-the-badge)](https://github.com/hallisonfreire/hallisonfreire)
