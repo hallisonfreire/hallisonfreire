@@ -1,4 +1,4 @@
-<h2 align="center">Hi, my name's Hallison Freire ⚡️ </h2>
+<h2 align="center"> ⚡️ Hi, my name's Hallison Freire ⚡️ </h2>
 <p align="center">
 
 - 🔭 I am currently a Process Analyst ...
