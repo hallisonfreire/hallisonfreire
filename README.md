@@ -29,10 +29,10 @@
   <p align="center">
   
   <div> 
- <h2 align="center"> <a href="https://instagram.com/hallisonfreire" target="_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target =" _ blank "> </a>
-   <a href = "mailto:hallisonfreire@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
- <a href="https://www.linkedin.com/in/hallisonfreire" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target =" _ blank "> </a>
- <a href="http://www.twitter.com/hallisonfreire" target="_blank"> <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"target =" _ blank "> </a> 
+ <h2 align="center"> <a href="https://instagram.com/hallison.dev" target="_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target =" _ blank "> </a>
+   <a href = "mailto:me@hallisonfreire.dev.br"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
+ <a href="https://www.linkedin.com/in/hallisondev" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target =" _ blank "> </a>
+ <a href="http://www.twitter.com/hallison.dev" target="_blank"> <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"target =" _ blank "> </a> 
    <p align="center">
   </div>
   
