@@ -8,7 +8,7 @@
   <a href="https://github.com/hallisonfreire">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=hallisonfreire&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallisonfreire&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallisonfreire&layout=compact&langs_count=7&theme=dracula"/>
    </div>
   
    <h2 align="center">⚡️ Seeking to improve myself in:</h2>
