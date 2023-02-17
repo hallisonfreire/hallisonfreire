@@ -35,10 +35,3 @@
    <p align="center">
   </div>
   
-  
-<h2 align="center">⚡️ My statuses on Github:
-<p align="center">
-  
-[![Visits Badge](https://badges.pufler.dev/visits/hallisonfreire/hallisonfreire?style=for-the-badge)](https://github.com/hallisonfreire/hallisonfreire)
-[![Repos Badge](https://badges.pufler.dev/repos/csorlandi?style=for-the-badge)](https://github.com/hallisonfreire?tab=repositories)
-
